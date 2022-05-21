@@ -1,4 +1,4 @@
-<h1 align="center">Bienvenue ! Je me présente moi c'est Edwine, faisons connaissances!</h1>
+<h1 align="center">Bienvenue ! A propos d'Edwine</h1>
 <h3 align="center">Développeur Web Fullstack Javascript</h3>
 
 - 👨‍💻 Tous mes projets sont disponibles sur Behance [https://www.behance.net/edmat](https://www.behance.net/edmat)
