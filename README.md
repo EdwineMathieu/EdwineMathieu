@@ -1,10 +1,12 @@
 # ![EdwineMathieu](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Behance-Entete_Edwine%20Mathieu.gif)
 
+<br>
 # ![EdwineMathieu](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Github_Photo_Profil_Readme.png)
 <h1 align="center">Bienvenue ! </h1>
 <h3 align="center"> je suis Edwine Mathieu Designer d'interface - UI/UX Designer</h3>
 
 Issue d'une formation en communication, j'ai eu diverses expériences, en tant que chargée de communication et marketing, community manager, graphiste/webdesigner et enfin UI Designer. Toutes ses expériences, m'ont permis de me spécialiser en communication visuelle et plus particulièrement en webdesign. J'ai développé une certaine expertise dans ce domaine. Aujourd''hui, je m'épanouie en travaillant sur des projets qui allient à la fois la réflexion (UI/UX), la technique avec des connaissances en programmation web et enfin la recherche d'une esthétique pratique avec le design. 
+
 
 - 👨‍💻 Tous mes projets sont disponibles sur Behance 
 # ![EdwineMathieu](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Behance_Edwine_Mathieu_Projets.jpg)
@@ -29,6 +31,7 @@ Issue d'une formation en communication, j'ai eu diverses expériences, en tant q
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+  # ! [EdwineMathieu](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Behance_Miniatures_ic%C3%B4nes_fondblanc.png)
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> 
   
