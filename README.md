@@ -3,7 +3,7 @@
 <h3 align="center">Développeur Web Fullstack Javascript</h3>
 
 - 👨‍💻 Tous mes projets sont disponibles sur Behance 
-# ![EdwineMathieu]([https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Behance_Edwine_Mathieu_Miniature_03-07-2022.jpg](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Behance_Edwine_Mathieu_Projets.jpg))
+# ![EdwineMathieu]https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Behance_Edwine_Mathieu_Projets.jpg
 - [https://www.behance.net/edmat](https://www.behance.net/edmat)
 
 - 📫 Vous pouvez me contacter par mail : **edwmathieu@gmail.com**
