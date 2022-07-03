@@ -14,7 +14,7 @@ Issue d'une formation en communication, j'ai eu diverses expériences, en tant q
 
 
 <h3>Consulter mon CV ✅ :</h3> 
-# ![EdwineMathieu](https://www.behance.net/gallery/146736393/CV-et-logiciels-utiliss)
+https://www.behance.net/gallery/146736393/CV-et-logiciels-utiliss
 
 - 📫 Vous pouvez me contacter par mail : **edm@unsignedecaractere.fr** 
 # ![EdwineMathieu](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Behance_Miniatures_icônes_fondblanc.png)
