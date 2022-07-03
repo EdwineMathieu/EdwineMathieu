@@ -15,22 +15,25 @@ Issue d'une formation en communication, j'ai eu diverses expériences, en tant q
 
 <h3>Consulter mon CV ✅ :</h3> 
 # ![EdwineMathieu](https://www.behance.net/gallery/146736393/CV-et-logiciels-utiliss)
+
 - 📫 Vous pouvez me contacter par mail : **edm@unsignedecaractere.fr** 
 # ![EdwineMathieu](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Behance_Miniatures_icônes_fondblanc.png)
 
-- ⚡ Mes centres d'intérêts sont : l'univers du numérique et de l'innovation technologique, l'art et la culture, l'univers de la mode et du bien-être, la couture et la pâtisserie.
+- ⚡ Mes centres d'intérêts : 
+L'univers du numérique et de l'innovation technologique, l'art et la culture, l'univers de la mode et du bien-être, la couture et la pâtisserie.
+
 <h3> Mes citations favorites :</h3>
 
 - ***La créativité, c'est inventer, expérimenter, grandir, prendre des risques, briser les règles, faire des erreurs et s'amuser. Mary Lou Cook***
 
 - ***Le luxe ultime est de pouvoir combiner la passion et la contribution. Sheryl Sandberg***
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Retrouvez moi sur les réseaux :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/edwine-mathieu-graphiste-webdesigner-communication/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edwine-mathieu-graphiste-webdesigner-communication/" height="30" width="40" /></a>
   
 <a href="https://www.behance.net/https://www.behance.net/edmat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/edmat" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-[EdwineMathieu](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Behance_Miniatures_icones_fondblanc.png)
+<h3 align="left"> Languages et outils: </h3>
+# ![EdwineMathieu](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Behance_Miniatures_icones_fondblanc.png)
