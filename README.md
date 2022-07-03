@@ -3,12 +3,12 @@
 
 # ![EdwineMathieu](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Github_Photo_Profil_Readme.png)
 <h1 align="center">Bienvenue ! </h1>
-<h3 align="center"> je suis Edwine Mathieu Designer d'interface - UI/UX Designer</h3>
+<h3 align="center"> Je suis Edwine Mathieu Designer d'interfaces - UI/UX Designer</h3>
 
-Issue d'une formation en communication, j'ai eu diverses expériences, en tant que chargée de communication et marketing, community manager, graphiste/webdesigner et enfin UI Designer. Toutes ses expériences, m'ont permis de me spécialiser en communication visuelle et plus particulièrement en webdesign. J'ai développé une certaine expertise dans ce domaine. Aujourd''hui, je m'épanouie en travaillant sur des projets qui allient à la fois la réflexion (UI/UX), la technique avec des connaissances en programmation web et enfin la recherche d'une esthétique pratique avec le design. 
+<p>Issue d'une formation en communication, j'ai eu diverses expériences, en tant que chargée de communication et marketing, community manager, graphiste/webdesigner et enfin UI Designer. Toutes ces expériences, m'ont permis de me spécialiser en communication visuelle et plus particulièrement en webdesign. J'ai développé une certaine expertise dans ce domaine. Aujourd''hui, je m'épanouie en travaillant sur des projets qui allient à la fois la réflexion (UI/UX), la technique avec des connaissances en programmation web et la recherche d'une esthétique pratique grâce au design.</p>
 
 
-- 👨‍💻 Tous mes projets sont disponibles sur Behance 
+- 👨‍💻 Tous mes projets sont disponibles sur Behance :
 - [https://www.behance.net/edmat](https://www.behance.net/edmat)
 # ![EdwineMathieu](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Behance_Edwine_Mathieu_Projets.jpg)
 
@@ -35,7 +35,7 @@ L'univers du numérique et de l'innovation technologique, l'art et la culture, l
 <a href="https://www.behance.net/https://www.behance.net/edmat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/edmat" height="30" width="40" /></a>
 </p>
 
-<h3 align="left"> Languages et outils: </h3>
+<h3 align="left"> Languages et outils : </h3>
 
 # ![EdwineMathieu](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Behance_Miniatures_icones_fondblanc.png)
 
