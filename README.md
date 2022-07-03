@@ -2,16 +2,20 @@
 <h1 align="center">Bienvenue ! </h1>
 <h3 align="center"> je suis Edwine Mathieu Designer d'interface - UI/UX Designer</h3>
 
+Issue d'une formation en communication, j'ai eu diverses expériences, en tant que chargé de communication et marketing, community manager,graphiste webdesigner et enfin UI Designer. Toutes ses expériences, mon permis de me spécialiser en communication visuelle et plus particulièrement en webdesign. J'ai développé une certaine expertise  dans mon domaine. Aujourd''hui, je m'épanouie en travaillant sur des projets qui allient à la fois la réflexion (UI/UX), la technique avec des connaissances en programmation et enfin la recherche d'une esthétique pratique. 
+
 - 👨‍💻 Tous mes projets sont disponibles sur Behance 
 # ![EdwineMathieu](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Behance_Edwine_Mathieu_Projets.jpg)
 - [https://www.behance.net/edmat](https://www.behance.net/edmat)
 
-- 📫 Vous pouvez me contacter par mail : **edwmathieu@gmail.com**
+- 📫 Vous pouvez me contacter par mail : **edm@unsignedecaractere.fr** <a href="ici" src="mailto:edm@unsignedecaractere.fr" alt="adresse mail edm@unsignedecaractere.fr"> 
 
 - ⚡ Mes centres d'intérêts sont : l'univers du numérique et de l'innovation technologique, l'art et la culture, l'univers de la mode et du bien-être, la couture et la pâtisserie.
 <h3> Mes citations favorites :</h3>
-- **La créativité, c'est inventer, expérimenter, grandir, prendre des risques, briser les règles, faire des erreurs et s'amuser. Mary Lou Cook**
-- **Le luxe ultime est de pouvoir combiner la passion et la contribution. Sheryl Sandberg**
+
+- ***La créativité, c'est inventer, expérimenter, grandir, prendre des risques, briser les règles, faire des erreurs et s'amuser. Mary Lou Cook***
+
+- ***Le luxe ultime est de pouvoir combiner la passion et la contribution. Sheryl Sandberg***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
