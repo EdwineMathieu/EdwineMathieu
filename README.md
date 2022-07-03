@@ -1,6 +1,6 @@
 # ![EdwineMathieu](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Behance-Entete_Edwine%20Mathieu.gif)
 
-# ![EdwineMathieu](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Edwine_Mathieu-Profil_Profil_NoiretBlanc.png)
+# ![EdwineMathieu](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Github_Photo_Profil_Readme.png)
 <h1 align="center">Bienvenue ! </h1>
 <h3 align="center"> je suis Edwine Mathieu Designer d'interface - UI/UX Designer</h3>
 
