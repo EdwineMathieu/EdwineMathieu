@@ -14,7 +14,8 @@ Issue d'une formation en communication, j'ai eu diverses expériences, en tant q
 
 <h3>Consulter mon CV ✅ :</h3> 
 # ![EdwineMathieu](https://www.behance.net/gallery/146736393/CV-et-logiciels-utiliss)
-- 📫 Vous pouvez me contacter par mail : **edm@unsignedecaractere.fr** <a href="ici" src="mailto:edm@unsignedecaractere.fr" alt="adresse mail edm@unsignedecaractere.fr"> 
+- 📫 Vous pouvez me contacter par mail : **edm@unsignedecaractere.fr** 
+# ![EdwineMathieu](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Behance_Miniatures_icônes_fondblanc.png)
 
 - ⚡ Mes centres d'intérêts sont : l'univers du numérique et de l'innovation technologique, l'art et la culture, l'univers de la mode et du bien-être, la couture et la pâtisserie.
 <h3> Mes citations favorites :</h3>
