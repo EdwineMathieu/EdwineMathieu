@@ -9,8 +9,9 @@ Issue d'une formation en communication, j'ai eu diverses expériences, en tant q
 
 
 - 👨‍💻 Tous mes projets sont disponibles sur Behance 
-# ![EdwineMathieu](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Behance_Edwine_Mathieu_Projets.jpg)
 - [https://www.behance.net/edmat](https://www.behance.net/edmat)
+# ![EdwineMathieu](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Behance_Edwine_Mathieu_Projets.jpg)
+
 
 <h3>Consulter mon CV ✅ :</h3> 
 # ![EdwineMathieu](https://www.behance.net/gallery/146736393/CV-et-logiciels-utiliss)
@@ -32,4 +33,4 @@ Issue d'une formation en communication, j'ai eu diverses expériences, en tant q
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-# ![EdwineMathieu](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Behance_Miniatures_icones_fondblanc.png)
+[EdwineMathieu](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Behance_Miniatures_icones_fondblanc.png)
