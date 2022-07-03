@@ -28,7 +28,7 @@ L'univers du numérique et de l'innovation technologique, l'art et la culture, l
 
 - ***Le luxe ultime est de pouvoir combiner la passion et la contribution. Sheryl Sandberg***
 
-<h3 align="left">Retrouvez moi sur les réseaux :</h3>
+<h3 align="left">Retrouvez moi sur les réseaux sociaux:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/edwine-mathieu-graphiste-webdesigner-communication/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edwine-mathieu-graphiste-webdesigner-communication/" height="30" width="40" /></a>
   
