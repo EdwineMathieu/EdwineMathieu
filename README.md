@@ -31,4 +31,4 @@ Issue d'une formation en communication, j'ai eu diverses expériences, en tant q
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-  # ![EdwineMathieu](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Behance_Miniatures_icônes_fondblanc.png)
+# ![EdwineMathieu](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Behance_Miniatures_icônes_fondblanc.png)
