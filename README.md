@@ -1,6 +1,6 @@
 # ![EdwineMathieu](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Behance-Entete_Edwine%20Mathieu.gif)
-<h1 align="center">Bienvenue ! A propos d'Edwine </h1>
-<h3 align="center">Développeur Web Fullstack Javascript</h3>
+<h1 align="center">Bienvenue ! </h1>
+<h3 align="center"> je suis Edwine Mathieu Designer d'interface - UI/UX Designer</h3>
 
 - 👨‍💻 Tous mes projets sont disponibles sur Behance 
 # ![EdwineMathieu](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Behance_Edwine_Mathieu_Projets.jpg)
@@ -8,9 +8,10 @@
 
 - 📫 Vous pouvez me contacter par mail : **edwmathieu@gmail.com**
 
-- ⚡ Mes centres d'intérêts sont : l'art et la créativité, les médias,la culture, la couture, la pâtisserie, l'univers du numérique et de l'innovation technologique. 
-
+- ⚡ Mes centres d'intérêts sont : l'univers du numérique et de l'innovation technologique, l'art et la culture, l'univers de la mode et du bien-être, la couture et la pâtisserie.
+<h3> Mes citations favorites :</h3>
 - **La créativité, c'est inventer, expérimenter, grandir, prendre des risques, briser les règles, faire des erreurs et s'amuser. Mary Lou Cook**
+- **Le luxe ultime est de pouvoir combiner la passion et la contribution. Sheryl Sandberg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
