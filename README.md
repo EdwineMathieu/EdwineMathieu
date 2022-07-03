@@ -39,4 +39,4 @@ L'univers du numérique et de l'innovation technologique, l'art et la culture, l
 
 # ![EdwineMathieu](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Behance_Miniatures_icones_fondblanc.png)
 
-# ![edwineMAathieu](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Behance_Edwine_Mathieu_Miniature_03-07-2022.jpg)
+
