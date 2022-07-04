@@ -16,6 +16,8 @@
 <h3>Consulter mon CV ✅ :</h3> 
 https://www.behance.net/gallery/146736393/CV-et-logiciels-utiliss
 
+Mon CV codé : https://edwinemathieu.github.io/
+
 - 📫 Vous pouvez me contacter par mail : **edm@unsignedecaractere.fr** 
 
 - ⚡ Mes centres d'intérêts : 
