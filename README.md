@@ -17,7 +17,6 @@
 https://www.behance.net/gallery/146736393/CV-et-logiciels-utiliss
 
 - 📫 Vous pouvez me contacter par mail : **edm@unsignedecaractere.fr** 
-# ![EdwineMathieu](https://github.com/EdwineMathieu/EdwineMathieu/blob/main/Behance_Miniatures_icônes_fondblanc.png)
 
 - ⚡ Mes centres d'intérêts : 
 L'univers du numérique et de l'innovation technologique, l'art et la culture, l'univers de la mode et du bien-être, la couture et la pâtisserie.
